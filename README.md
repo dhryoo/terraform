@@ -46,3 +46,6 @@ This repository contains only Terraform core, which includes the command line in
 ## License
 
 [Business Source License 1.1](https://github.com/hashicorp/terraform/blob/main/LICENSE)
+
+
+###very good 이네요.
